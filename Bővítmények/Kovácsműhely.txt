@@ -1,0 +1,7 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      TALEBROOK - KOVÁCSMŰHELY                                                                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.0 - 2024.09.08
+- Hozzáadásra került a "bérlés automatikus megszűntetése" opció. 
+  Mostantól hogyha nem vagy több napon keresztül aktív a szerveren és nem fizeted be a bérlési díjat, akkor a bérleményed jogát el fogod veszíteni!
+  Ezzel az opcióval elősegítésre kerülnek az aktív játékosok, hogy lehetőségük legyen újból kibérelni és kezelni a "csődbe" vitt frakciókat.
