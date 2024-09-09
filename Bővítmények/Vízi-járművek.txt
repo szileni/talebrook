@@ -1,0 +1,8 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                TALEBROOK - VÍZI JÁRMŰVEK                                               
+------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.0 - 2024.09.07
+- Átalakításra került a menürendszer ("Ox Lib" menüvel megyünk tovább).
+- Mostantól kis fotókon megtekinthetőek a vásárolható vízi járművek.
+- Vásárlást követően az adott kikötőben lehet kikérni a saját vízi járművet.
+- "O" gomb megnyomásával lehet a horgonyt kezelni (fel/leengedés) vagy visszaküldeni a járművet legközelebbi kikötőbe.
