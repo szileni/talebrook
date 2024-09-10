@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                TALEBROOK - ILLEGÁL-BÁROK                                               
+------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.0 - 2024.09.10
+
+- Átalakításra került a menürendszer. (Ox Lib)
+
+- Hozzáadásra került a "bérlés automatikus megszűntetése" opció. 
+  Mostantól hogyha nem vagy több napon keresztül aktív a szerveren és nem fizeted be a bérlési díjat, akkor a bérleményed jogát el fogod veszíteni!
+  Ezzel az opcióval elősegítésre kerülnek az aktív játékosok, hogy lehetőségük legyen újból kibérelni és kezelni a "csődbe" vitt frakciókat.
+
+- Kiegészítésre kerültek az illegál bárok + 1 külső NPC-vel, aki kezeli a "bérleti szerződést" és bár információkat.
+
+- Új lehetőség került be, ami segítségével minden bártulajdonos megváltozathatja a bárjának a nevét, leírását és feltölthet 1 db posztert/fotót a külső NPC-nél.
+  Ezeknek a díja fejenként 100$.
+
+- Magyar fordításra került a kiegészítő és értesítések, részletes segítségek jelennek meg egyes menüpontokban, ami a könnyebb eligazodásban segít.
+
+- A bárt innentől kezdve Véres pénzzel lehet csak kibérelni, fenntartásához is erre lesz szükség.
+
+- Beállításra került a külső "Disztribúciós Vezető" NPC-nél, 
+  hogyha a személyzet beosztása kicsi, vagy külsős probál vele kommunikálni, akkor kap értesítést,
+  hogyha a bérlő próbál vele kezdeményezni, de nincs elegendő illegális szeszes ital a szállítási készletbe berakva, akkor szintén kap értesítést.
+- Szállítási megbízás jutalma szintén Véres pénz.
