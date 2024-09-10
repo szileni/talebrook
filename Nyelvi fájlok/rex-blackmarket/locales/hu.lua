@@ -1,22 +1,22 @@
 local Translations = {
 
     client = {
-        lang_1 = 'Open ',
-        lang_2 = 'Black Market Agent',
-        lang_3 = 'Wash Blood Money',
-        lang_4 = 'Black Market Shop',
-        lang_5 = 'Wash Blood Money',
-        lang_6 = 'Amount',
-        lang_7 = 'current blood money $',
-        lang_8 = 'Not Enough Blood Money',
-        lang_9 = 'Black Market Shop',
-        lang_10 = 'Open Black Market Menu',
-        lang_11 = 'Blackmarket Shop',
-        lang_12 = 'Buy ',
+        lang_1 = 'Megnyit',
+        lang_2 = 'Orgazda',
+        lang_3 = 'Pénzmosás',
+        lang_4 = 'Orgazda boltja',
+        lang_5 = 'Pénzmosás',
+        lang_6 = 'Összeg',
+        lang_7 = 'aktuális véres pénzed $',
+        lang_8 = 'Nincs elég véres pénzed.',
+        lang_9 = 'Orgazda boltja',
+        lang_10 = 'Orgazda menü megnyitása',
+        lang_11 = 'Orgazda bolt',
+        lang_12 = 'Vásárlás ',
     },
 
     server = {
-        lang_1 = 'Not enough ',
+        lang_1 = 'Nem elég ',
     },
 
 }
