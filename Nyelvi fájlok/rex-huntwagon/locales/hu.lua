@@ -1,0 +1,87 @@
+local Translations = {
+
+    client = {
+        lang_1 = 'Vadász Menü megnyitás',
+        lang_2 = 'Vadász Szekér Menü',
+        lang_3 = 'Vadász szekér vásárlás ($',
+        lang_4 = 'Vásárolj vadász szekeret',
+        lang_5 = 'Vadász szekér lehívás',
+        lang_6 = 'Vadász szekered elöhívása',
+        lang_7 = 'Nincs szekered',
+        lang_8 = 'Nincs szekered, ami ide lenne tárolva',
+        lang_9 = 'Vadász szekered megérkezett',
+        lang_10 = 'Vadász szekered már kint van!',
+        lang_11 = 'Vadász szekered megérkezett!',
+        lang_12 = 'Vadász szekered megsérült!',
+        lang_13 = 'Szükség van a szekered megjavítására!',
+        lang_14 = 'Nincs ide tárolva szekered',
+        lang_15 = 'Nincs szekered, ami ide lenne tárolva!',
+        lang_16 = 'Vadász szekér',
+        lang_17 = 'Szekér megsérült!',
+        lang_18 = 'Vadász szekered megsérült, javításra elküldve!',
+        lang_19 = 'Vadász szekér menü',
+        lang_20 = 'Állat Tárolás',
+        lang_21 = 'Tárolt be az elejtett állatokat',
+        lang_22 = 'Tárolt Állatok',
+        lang_23 = 'Nézd meg milyen elejtett állatok vannak a szekeredben',
+        lang_24 = 'Vadász Szekér Tároló',
+        lang_25 = 'Vadász szekér tároló tartalmának megtekintése',
+        lang_26 = 'Vadász szekér eltárolás',
+        lang_27 = 'Parkolt le a szekeredet, ha nincs rá szükséged',
+        lang_28 = 'Vadász szekér eladás ($',
+        lang_29 = 'Add el a már nem használt vadász szekeredet',
+        lang_30 = 'Vadász Szekér Eladás Ellenörzés',
+        lang_31 = 'Biztos vagy benne, hogy el szeretnéd adni?',
+        lang_32 = 'Igen',
+        lang_33 = 'Nem',
+        lang_34 = 'Valami hiba történt!',
+        lang_35 = 'Hiba történt az állat eltávolítása során!',
+        lang_36 = 'Vadász Szekér Tároló',
+        lang_37 = 'Vadász szekér javítás',
+        lang_38 = 'Javítás díja $',
+        lang_39 = 'Vadász Bolt',
+    },
+
+    server = {
+        lang_1 = 'Szekér megvásárolva',
+        lang_2 = 'Sikeresen megvásárlásra került a vadász szekered! Jó vadászást!',
+        lang_3 = 'Maximális szekér elérve',
+        lang_4 = 'Maximálisan megengedett szekérszám elérve',
+        lang_5 = 'Nincs elegendö pénzed',
+        lang_6 = ' Szükséges',
+        lang_7 = 'Meghiúsult',
+        lang_8 = 'Meghiúsult a vadász szekered betárolása!',
+        lang_9 = 'Vadász Szekér Betárolva',
+        lang_10 = 'Vadász szekered megörzésre került ',
+        lang_11 = 'Meghiúsult',
+        lang_12 = 'Meghiúsult a vadász szekered betárolásának információja!',
+        lang_13 = 'Sérült vadász szekér betárolva',
+        lang_14 = 'Sérült szekered megörzésre került ',
+        lang_15 = 'Vadász szekered megjavítva',
+        lang_16 = 'Szekered megjavításra került',
+        lang_17 = 'Nincs elég pénzed!',
+        lang_18 = 'Több pénzre van szükséged, hogy ezt megtehesd!',
+        lang_19 = 'Állat eltárolva',
+        lang_20 = ' Tárolás sikeres!',
+        lang_21 = 'Maximálisan tárolható állatok száma elérve',
+        lang_22 = 'Maximális mennyiség ',
+        lang_23 = ' állattal elérve!',
+        lang_24 = 'Szekér Eladva',
+        lang_25 = 'Eladtad a vadász szekered $',
+        lang_26 = 'Nincs szekered',
+        lang_27 = 'Nincs vadász szekered, amit eladhatnál!',
+    },
+
+}
+
+if GetConvar('rsg_locale', 'en') == 'hu' then
+    Lang = Locale:new({
+        phrases = Translations,
+        warnOnMissing = true,
+        fallbackLang = Lang,
+    })
+end
+
+-- Lang:t('client.lang_1')
+-- Lang:t('server.lang_1')
+-- Lang:t('config.lang_1')
