@@ -21,7 +21,7 @@ local Translations = {
     server = {
         lang_1 = ' Szegényes minöség eladva ',
         lang_2 = ' Jó minöség eladva ',
-        lang_3 = ' Sold a perfect ',
+        lang_3 = ' Tökéletes minöség eladva ',
         lang_4 = ' Fizetséged $',
     },
 
