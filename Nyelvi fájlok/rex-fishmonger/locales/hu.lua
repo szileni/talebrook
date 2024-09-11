@@ -3,11 +3,11 @@ local Translations = {
     client = {
         lang_1 = 'Megnyit ',
         lang_2 = 'Halkereskedö Menü',
-        lang_3 = 'Hal eladás',
+        lang_3 = 'Halak eladása',
         lang_4 = 'Add el a halaidat a kereskedönek',
-        lang_5 = 'Bolt megnyitás',
-        lang_6 = 'Vegyél halászati kellékeket!',
-        lang_7 = 'Halbolt',
+        lang_5 = 'Bolt megnyitása',
+        lang_6 = 'Vegyél halászati eszközöket!',
+        lang_7 = 'Halkereskedő bolt',
         lang_8 = 'Halkereskedö zárva van ',
         lang_9 = 'gyere vissza ',
         lang_10 = '-kor',
@@ -16,12 +16,12 @@ local Translations = {
     },
 
     server = {
-        lang_1 = 'Nincs láad hal!',
+        lang_1 = 'Nincs nálad hal!',
         lang_2 = 'Nincs nálad olyan hal, amit eladhatnál!',
     },
     
     config = {
-        lang_1 = 'Halbolt',
+        lang_1 = 'Halkereskedő',
     },
 
 }
