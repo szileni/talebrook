@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                TALEBROOK - ALAPVETŐ KIEGÉSZÍTÉSEK                                               
+------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.0 - 2024.09.10
+
+- PVP (KI/BE) kapcsolás kivételre került. Mostantól mindenki támadható.
+
+- Hozzáadásra került a megragadás kivédése. 
+  "Z" gomb megnyomásával elkerülhető, hogy hátulról érkező megragadás és folytást követően karaktered meghaljon.
+  Használni tudja az is, aki épp a folytó fél.
+
+- Javításra került, hogy több személy is feltud egyszerre ülni a lóra/járművekre és nem ragadják le egymást a járműről.
+  Ilyenkor aki lovon ül, az ideiglenesen PVE módba kerül (leszedni a lóról őt nem lehet), de attól még lelőni le lehet.
+
+- Kúszás cserélve "LCTRL + L" gombra, a megragadás kivédés "Z" gomb bekerülése miatt.
+  Kúszás megszűnik, amikor folyóval érintkezik a karakter.
+
+- Bekerült egy új funkció, aminek segítségével féloldalasan lehet a lovon ülni. "/sidesaddle" paranccsal használható.
