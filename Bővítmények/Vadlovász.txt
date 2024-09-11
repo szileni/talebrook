@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------
+                                                TALEBROOK - VADLOVÁSZ                                               
+------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.0 - 2024.09.10
+
+- Átalakításra és kiegészítésre került a menü. (Ox Lib)
+  Bekerült egy új almenü, amiben a Vadlovászról lehet olvasni egy rövid ismertetőt.
+  'LALT' billentyűvel lehet mostantól 3 méteren belül kezdeményezni beszélgetést a Vadlovásszal.
+
+- Magyarításra került minden értesítés és menü elem.
+
+- Közel 100 lóféle bekerült az adatbázisba, melyeket szelidítés után el lehet adni, vagy örökbefogadni a Vadlovásznál.
+
+- Kijavításra került, hogy korábban nem lehetett örökbefogadni 'Lovász' munkával a szelidített lovat.
+  Mostantól a legközelebbi istállóba kerülnek ezek a lovak és van lehetőség elnevezni és nemet választani.
+
+- 'Lovász'-nak kell lenned ahhoz, hogy lehetőséged legyen szelidített lovat örökbefogadni.
+
+- Colter-be bekerült egy NPC, ahol szintén lehet eladni és örökbefogadni megszelidített vadlovakat.
