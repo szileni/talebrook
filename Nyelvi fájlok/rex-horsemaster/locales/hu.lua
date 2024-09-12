@@ -5,12 +5,12 @@ local Translations = {
 		lang_2 = 'A ló túl tiszta',
 		lang_3 = 'Lókefe szükséges',
 		lang_4 = 'Túl messze van!',
-		lang_5 = 'Megtelt a ló!',
+		lang_5 = 'Megtelt a nyeregtáska!',
 		lang_6 = 'Master sárgarépa szükséges!',
 		lang_7 = 'Nincs aktív ló!',
 		lang_8 = 'nincs aktív lovad',
 		lang_9 = 'Megnyitás',
-		lang_10 = 'Master Trainer zárva',
+		lang_10 = 'Mesteredző zárva',
 		lang_11 = 'gyere vissza ',
 		lang_12 = 'után',
 		lang_13 = 'Mesteredzö menü',
@@ -20,7 +20,7 @@ local Translations = {
     },
 
     server = {
-        lang_1 = 'Ló kiképzés szinje frissítve',
+        lang_1 = 'Ló kiképzés szintje frissítve',
         lang_2 = '\'s',
         lang_3 = ' szinten van most ',
         lang_4 = 'Lovad teljesen kiképezve',
