@@ -1,7 +1,7 @@
 local Translations = {
 
     client = {
-        lang_1 = 'Apróhirdetések Menü',
+        lang_1 = 'Apróhirdetések',
         lang_2 = 'Hirdetés feladása',
         lang_3 = 'Hirdetések megtekintése',
         lang_4 = 'Rendeléseim átvétele',
@@ -16,7 +16,7 @@ local Translations = {
         lang_13 = ' egységenként',
         lang_14 = 'Apróhirdetések',
         lang_15 = 'Nincs elég termék a megrendelés teljesítéséhez!',
-        lang_16 = 'Teljesítés Menu',
+        lang_16 = 'Teljesítés',
         lang_17 = 'Vevő postacíme: ',
         lang_18 = 'Termék: ',
         lang_19 = 'Mennyiség: ',
@@ -35,7 +35,7 @@ local Translations = {
     server = {
         lang_1 = 'Apróhirdetés feladva',
         lang_2 = 'Nincs elég készpénz nálad',
-        lang_3 = 'classified notify system ran',
+        lang_3 = 'Apróhiretés értesítés Job lefutott',
         lang_4 = 'Ezt a hirdetést nem Te adtad fel!',
     },
 
