@@ -2,14 +2,14 @@ local Translations = {
     error = {
         something_went_wrong = 'Valami hiba történt!',
         you_need_item_to_do_that = 'Szükséged van %{item1} és %{item2} -re hogy ezt tehesd!',
-        only_farmers_can_plant_seeds = 'Csak farmerek vethetnek el magokat!',
+        only_farmers_can_plant_seeds = 'Csak földmüves vethetnek el magokat!',
         you_are_not_in_a_farming_zone = 'Nem vagy mezögazdasági zónában!',
         you_may_only_plant_seeds_here = 'Itt csak %{zonename} magot lehet elültetni!',
         too_close_to_another_plant = 'Túl közel egy másik növényhez!',
         you_already_have_plants_down = 'Maximális ültetvény elérve. %{MaxPlantCount}/%{MaxPlantCount}',
-        only_farmers_can_collect_water = 'Csak farmerek gyüjthetnek vizet!',
+        only_farmers_can_collect_water = 'Csak földmüvesek gyüjthetnek vizet!',
         you_need_bucket_collect_water = 'Szükség van egy vödörre a víz összegyüjtéséhez!',
-        only_farmers_can_collect_poo = 'Csak farmerek gyűjthetnek trágyát!',
+        only_farmers_can_collect_poo = 'Csak földmüvesek gyűjthetnek trágyát!',
         you_need_a_bucket_collect_fertilizer = 'Szükség van egy vödörre a mütrágya begyüjtéséhez!',
     },
     success = {
