@@ -1,15 +1,15 @@
 local Translations = {
 
     client = {
-        lang_1 = 'Megnyit',
-        lang_2 = 'Tábor menü',
+        lang_1 = 'Megpillant',
+        lang_2 = 'Tábor lehetöségek',
         lang_3 = 'Tábori felszerelés',
         lang_4 = 'tábori felszerelés',
         lang_5 = 'Tábori tároló',
         lang_6 = 'tábori tároló',
         lang_7 = 'Felszerelés vásárlása',
         lang_8 = 'vásárolj felszerelést a táborhoz',
-        lang_9 = 'Tábor kifosztás menü',
+        lang_9 = 'Tábor kifosztás',
         lang_10 = 'Tábor kifosztása',
         lang_11 = 'foszd ki ezt a tábort',
         lang_12 = 'Lerakott felszerelés',
@@ -43,17 +43,17 @@ local Translations = {
     },
 
     cooking = {
-        lang_1 = 'Főzési menü',
-        lang_2 = 'Főzés menü',
-        lang_3 = 'Fedezz fel recepteket a következőhöz: ',
+        lang_1 = 'Főzés',
+        lang_2 = 'Főzés',
+        lang_3 = 'Fedezz fel recepteket a következöhöz: ',
         lang_4 = 'Mennyiség',
         lang_5 = 'Mennyiség',
         lang_6 = 'Főzés ',
     },
 
     crafting = {
-        lang_1 = 'Tárgykészítés menü',
-        lang_2 = 'Tárgykészítés menü',
+        lang_1 = 'Tárgykészítés',
+        lang_2 = 'Tárgykészítés',
         lang_3 = 'Fedezz fel tervrajzokat a következőhöz: ',
         lang_4 = 'Mennyiség',
         lang_5 = 'Mennyiség',
@@ -61,8 +61,8 @@ local Translations = {
     },
 
     moonshine = {
-        lang_1 = 'Szeszfőzés menü',
-        lang_2 = 'Szeszfőzés menü',
+        lang_1 = 'Szeszfőzés',
+        lang_2 = 'Szeszfőzés',
         lang_3 = 'Fedezu fel recepteket a következőhöz: ',
         lang_4 = 'Mennyiség',
         lang_5 = 'Mennyiség',
