@@ -1,8 +1,8 @@
 local Translations = {
 
     client = {
-		lang_1 = 'Felszerelés menü',
-		lang_2 = 'Aranykereskedő menü',
+		lang_1 = 'Felszerelés',
+		lang_2 = 'Aranykereskedő',
 		lang_3 = 'Felszerelés információ',
 		lang_4 = 'Mosnivaló homok hozzáadása',
 		lang_5 = 'Víz hozzáadása',
@@ -10,7 +10,7 @@ local Translations = {
 		lang_7 = 'Javítóberendezések ($',
 		lang_8 = ')',
 		lang_9 = 'Aranymosó asztal',
-		lang_10 = 'Aranymosó menü',
+		lang_10 = 'Aranymosó',
 		lang_11 = 'Berendezés azonosító:',
 		lang_12 = 'Tulajdonos: ',
 		lang_13 = ' (',
@@ -41,8 +41,8 @@ local Translations = {
 		lang_38 = 'Fizetési díj begyűjtése...',
 		lang_39 = 'Itt ezt nem lehet megtenni!',
 		lang_40 = 'Víz gyűjtése...',
-		lang_41 = 'Megnyitás',
-		lang_42 = 'Aranykereskedő menü',
+		lang_41 = 'Kezdeményezés',
+		lang_42 = 'Aranykereskedő',
 		lang_43 = 'Aranyrög beolvasztása',
 		lang_44 = 'rögök aranyrudakká olvasztása',
 		lang_45 = 'Aranyrudak eladása',
@@ -61,7 +61,7 @@ local Translations = {
 		lang_58 = 'Nincs elég kis aranyrög nálad!',
 		lang_59 = 'Nincs elég közepes aranyrög nálad!',
 		lang_60 = 'Nincs elég nagy aranyrög nálad!',
-		lang_61 = 'Aranykereskedő menü',
+		lang_61 = 'Aranykereskedő',
 		lang_62 = 'Aranyrudak eladása',
 		lang_63 = 'Összeg',
 		lang_64 = 'jelenlegi eladási ár rúdanként $',
@@ -73,7 +73,7 @@ local Translations = {
 
     server = {
         lang_1 = 'Maximális elérve',
-        lang_2 = 'cronjob ran for rex-goldrush upkeep',
+        lang_2 = 'rex-goldrush Cronjob lefutott',
     },
 
 }
