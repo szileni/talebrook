@@ -1,20 +1,20 @@
 local Translations = {
 
     client = {
-        lang_1 = 'Open Stash',
-        lang_2 = 'Destroy Stash',
-        lang_3 = 'Confirm Destroy',
-        lang_4 = 'Destroy Stash',
-        lang_5 = '⛔️ destroying the stash will also destroy the contents!',
-        lang_6 = 'Yes',
-        lang_7 = 'No',
-        lang_8 = 'Destroying Stash',
-        lang_9 = 'Max Stashes Reached',
-        lang_10 = 'Can\'t Place Here',
+        lang_1 = 'Tárolót megnyit',
+        lang_2 = 'Tárolót megszüntet',
+        lang_3 = 'Erősítsd meg a  megszüntetést.',
+        lang_4 = 'Tárolót Megszüntet',
+        lang_5 = '⛔️ a tároló megszüntetésével a benne lévő tárgyak is elvesznek!',
+        lang_6 = 'Igen',
+        lang_7 = 'Nem',
+        lang_8 = 'Tároló megszüntetése',
+        lang_9 = 'Nem lehet több tárolód!',
+        lang_10 = 'Ide nem rakhatod le a tárolót',
     },
 
     server = {
-        lang_1 = 'loading ',
+        lang_1 = 'betöltés ',
         lang_2 = ' prop with ID: ',
     },
 
