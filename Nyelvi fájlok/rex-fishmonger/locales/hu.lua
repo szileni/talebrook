@@ -1,8 +1,8 @@
 local Translations = {
 
     client = {
-        lang_1 = 'Megnyit ',
-        lang_2 = 'Halkereskedö Menü',
+        lang_1 = 'Kezdeményezés ',
+        lang_2 = 'Halkereskedö',
         lang_3 = 'Halak eladása',
         lang_4 = 'Add el a halaidat a kereskedönek',
         lang_5 = 'Bolt megnyitása',
