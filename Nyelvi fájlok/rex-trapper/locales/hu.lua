@@ -7,8 +7,8 @@ local Translations = {
         lang_4 = '-kor',
         lang_5 = 'Szörme Bolt',
         lang_6 = 'Add el a szörmekészítönek',
-        lang_7 = 'Add el szörméket, bört & tollakat',
-        lang_8 = 'Bolt megnyitás',
+        lang_7 = 'Add el a szörméket, böröket & tollakat',
+        lang_8 = 'Bolt megnyitása',
         lang_9 = 'Szörmekészítö boltjának megtekintése',
         lang_10 = 'Szörmék ellenörzése...',
         lang_11 = 'Szörme betárolva',
@@ -17,7 +17,7 @@ local Translations = {
         lang_14 = 'Összegyüjtött állatok: ',
         lang_15 = 'Összegyüjtött állatok: ',
         lang_16 = 'Szörme Bolt',
-        lang_17 = 'Szörme Bolt megnyitás',
+        lang_17 = 'Szörme Bolt megnyitása',
     },
 
     server = {
