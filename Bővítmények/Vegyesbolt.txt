@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                       TALEBROOK - VEGYESBOLT                                                                      
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.1 - 2024.09.16
+- Javításra került, hogy a bérlő nem kapott egyből tulajdonosi jogot.
+- Magyar fordítás bekerült.
+
 Frissítés 1.0 - 2024.09.11
 - Hozzáadásra került a "bérlés automatikus megszűntetése" opció. 
   Mostantól hogyha nem vagy több napon keresztül aktív a szerveren és nem fizeted be a bérlési díjat, akkor a bérleményed jogát el fogod veszíteni!
