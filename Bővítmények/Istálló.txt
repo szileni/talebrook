@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      TALEBROOK - ISTÁLLÓ                                                                      
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Frissítés 1.2 - 2024.09.16
+
+- További menü átalakítás történt
+  Beállításra került, hogyha ugyan azt az elemet szeretné megvásárolni újból, akkor értesítést kap róla
+  Bekerült a menü megnyitását követően egy útmutató (alul lesz látható 20mp-ig), hogy hogyan kell a menüt használni.
+  Minden elemet meg kell egyesével vásárolni ha azt szeretnéd, hogy a lovadon megmaradjanak (még akkor is ha leveszed!)
+  'ENTER' gomb megnyomásával lehet levenni a felszerelést, ezt is meg kell venni, de ez díjtalan
+  Vásárlást követően értesítést jelzi a sikerességet, kiírja, hogy mennyibe került, ha nincs elegendő pénzed, akkor pedig jelez
+
+
+Frissítés 1.1 - 2024.09.14
+
+- Teljes átalakításon esett át a 'Ló testreszabása' almenü
+  Egyszerre többen is tudtok egy istállóban a lovaitokhoz venni felszereléseket
+  Amikor a menübe kerültök, akkor egy scenario-ba kerül be a karaktered (egy kis könyvet lapozva látnak mások)
+  A felszereléseket egyesével lehet megvásárolni.
+  Befejezést és menü bezárást követően a lovad elküldésre kerül, hogy a felszerelését ráadhassák, így újra kell őt hívnod.
+  Letíltásra kerültek a: 'Z', 'B', 'X', 'ESC', 'T', 'Jobb klikk' gombok, hogy ne tudjon véletlen kikerülni a menüből.
+
+
+Frissítés 1.0 - 2024.09.12
+
+- Átalakításra került az Istálló menürendszere
+  Bekerült egy új menüpont (Bemutatkozás), ami az adott istálló-ról mesél el egy történetet
+
+- Mostantól minden istállóban megnézheted az összes birtokolt lovad
+  'Lovak megtekintése' almenüben látható, hogy melyik istállóban található meg
+  Kiválasztást követően, ha nem a jelenlegi istállóban van a lovad, akkor van lehetőség átszállíttatni
+
+- Új értesítések kerültek bele, hogy egyértelműbb visszajelzést kapjatok minden funkció után
+
+- Örökbefogadott vadlovat nem lehet pénzért eladni a lovásznál, ilyenkor értesítést kapunk, hogy a vadlovunk visszaengedésre került a vadonba
